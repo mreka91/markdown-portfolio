@@ -1,1 +1,1 @@
-github.com/mreka91
+[GitHub](http://github.com/mreka91)
